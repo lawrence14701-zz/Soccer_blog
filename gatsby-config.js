@@ -19,8 +19,8 @@ module.exports = {
   siteMetadata: {
     title: 'GCN',
     description:
-      'A starter template to build amazing static websites with Gatsby, Contentful and Netlify',
-    siteUrl: 'https://gcn.netlify.com',
+      'Using over a decade’s worth of football knowledge, on this blog site I (Michael Black) aim to produce interesting and entertaining football related content for fans around the world!',
+    siteUrl: 'https://yaadyfootball.com/',
     image: '/images/share.jpg',
     menuLinks: [
       {
